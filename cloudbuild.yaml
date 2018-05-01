@@ -1,0 +1,4 @@
+steps:
+#- name: 'gcr.io/ju-project-188023/docker-compose'
+- name: 'docker-compose'
+  args: ['up']
